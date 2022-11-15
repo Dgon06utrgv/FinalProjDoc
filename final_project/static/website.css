@@ -158,11 +158,15 @@ header {
 	letter-spacing: 2px;
 	border-top-width: 2px;
 }
-footer {
-	background-color: #B3B3B3;
-	padding-top: 60px;
-	padding-bottom: 60PX;
+
+box_to_project card{
+text-align: center;
+display: contents;
+align-items: center;
+background-color: #5D5E5D;
+color: #52BAD5;
 }
+
 .intro {
 	display: inline-block;
 	background-color: #6DC7D0;
